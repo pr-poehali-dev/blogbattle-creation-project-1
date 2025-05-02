@@ -13,10 +13,10 @@ interface BlogCase {
 
 const blogCases: BlogCase[] = [
   {
-    id: "tech-case",
-    title: "Технологии",
+    id: "booster-case",
+    title: "Бустер",
     price: 199,
-    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000",
+    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000",
     content: ["Обзоры гаджетов", "Новости технологий", "Тренды IT"]
   },
   {
