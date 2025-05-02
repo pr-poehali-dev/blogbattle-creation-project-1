@@ -31,7 +31,7 @@ const Hero = () => {
               <div className="absolute -inset-0.5 bg-gradient-to-r from-purple-500 to-blue-500 rounded-lg blur opacity-75"></div>
               <div className="relative bg-black rounded-lg p-6">
                 <div className="text-center">
-                  <h3 className="text-xl font-bold text-white mb-4">Топ блогеры недели</h3>
+                  <h3 className="text-xl font-bold text-white mb-4">Топ зачисления недели</h3>
                   <div className="space-y-3">
                     {[1, 2, 3].map((i) => (
                       <div key={i} className="flex items-center justify-between p-3 bg-gray-900 rounded-lg">
